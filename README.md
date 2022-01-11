@@ -33,7 +33,7 @@ I have prior basic experience in Android Development in Java. Initially, I faced
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Kuhu Halder]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
